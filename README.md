@@ -1,1 +1,2 @@
 # Book-price-prediction
+This project was a kaggle competition. The goal was to predict the price of books based on the features provided. The dataset was provided by the competition. The dataset was divided into two parts, train and test. The train dataset was used to train the model and the test dataset was used to test the model. The model was trained using the train dataset and the model was tested using the test dataset. The model was evaluated using the RMSE metric
